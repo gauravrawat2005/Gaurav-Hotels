@@ -324,7 +324,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-lg">Phone</h3>
                   <p className="text-gray-600">
-                    +91 9876543210
+                    +91 7451926532
                   </p>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function Contact() {
                 <div>
                   <h3 className="font-semibold text-lg">Email</h3>
                   <p className="text-gray-600">
-                    support@dsphotels.com
+                    support@gauravhotels.com
                   </p>
                 </div>
               </div>
