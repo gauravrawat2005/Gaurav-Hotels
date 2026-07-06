@@ -398,7 +398,7 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10 mb-10">
           <div>
             <h3 className="font-display text-xl text-white mb-3">
-              D.S.P Hotels
+              Gaurav Hotels
             </h3>
             <p className="text-white/50 text-sm leading-relaxed">
               Helping you find and book the perfect stay, anywhere in India.
@@ -424,10 +424,10 @@ function Footer() {
             <h4 className="text-white font-semibold text-sm mb-4">Contact</h4>
             <ul className="space-y-2 text-white/50 text-sm">
               <li className="hover:text-gold transition-colors cursor-pointer">
-                support@dsphotels.com
+                support@gauravhotels.com
               </li>
               <li className="hover:text-gold transition-colors cursor-pointer">
-                +91 98765 43210
+                +91 7451926532
               </li>
               <li className="hover:text-gold transition-colors cursor-pointer">
                 Help Center
